@@ -14,6 +14,9 @@
 ::      change to silverlight folder (e.g.
 ::      "c:\Program Files\Microsoft Silverlight\5.1.20913.0") before running
 ::
+::      sllauncher.EXE is not found in v4.0.60310.0, v5.1.20913.0
+::      sllauncher.EXE is not found in v5.1.20913.0
+::      NPCTRLUI.DLL is not found in v5.1.20913.0
 ::
 :: Author: 
 ::	Copyright (C) 2014  Skipton Ryper
